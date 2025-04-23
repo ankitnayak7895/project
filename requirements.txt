@@ -1,0 +1,35 @@
+# For UI and API
+Flask
+flask-session
+
+# For web_scrapping
+
+requests
+beautifulsoup4
+selenium
+
+# Job Scheduling
+schedule
+
+# DataBase
+
+pymongo
+
+# Cloud Storage
+boto3  # AWS S3
+google-cloud-storage  # Google Cloud Storage
+azure-storage-blob  # Azure Blob Storage
+
+# Email Notifications
+# smtplib  # Built-in, no need to install
+# email  # Built-in, no need to install
+
+# Logging & Debugging
+logging  # Built-in, no need to install
+logging.handlers  # Built-in, no need to install
+
+#  Other Utilities
+uuid  # Built-in, for unique job IDs
+
+# for email setup and confirmation
+Flask-Mail

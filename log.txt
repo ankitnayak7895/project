@@ -1,0 +1,625 @@
+2025-03-25 23:32:16,640-INFO-Log file created successfully !
+2025-03-26 00:08:26,508-WARNING-This is the warning message !
+root-2025-03-26 00:08:26,508-WARNING-This is the warning message !
+2025-03-26 00:08:26,508-CRITICAL-This is the critical error !
+root-2025-03-26 00:08:26,508-CRITICAL-This is the critical error !
+2025-03-26 00:08:26,508-ERROR-This is the ERROR message !
+root-2025-03-26 00:08:26,508-ERROR-This is the ERROR message !
+2025-03-26 00:11:12,840-ERROR-❌ Failed to connect to MongoDB: db already exists with different case already have: [mydatabase] trying to create [MyDatabase], full error: {'ok': 0.0, 'errmsg': 'db already exists with different case already have: [mydatabase] trying to create [MyDatabase]', 'code': 13297, 'codeName': 'DatabaseDifferCase', '$clusterTime': {'clusterTime': Timestamp(1742928072, 6), 'signature': {'hash': b'#I\xb9\xec0>P\xc9\xbb2\xbb\x00\xdeU\xceWp\xfeU|', 'keyId': 7444173944631853068}}, 'operationTime': Timestamp(1742928072, 6)}
+root-2025-03-26 00:11:12,840-ERROR-❌ Failed to connect to MongoDB: db already exists with different case already have: [mydatabase] trying to create [MyDatabase], full error: {'ok': 0.0, 'errmsg': 'db already exists with different case already have: [mydatabase] trying to create [MyDatabase]', 'code': 13297, 'codeName': 'DatabaseDifferCase', '$clusterTime': {'clusterTime': Timestamp(1742928072, 6), 'signature': {'hash': b'#I\xb9\xec0>P\xc9\xbb2\xbb\x00\xdeU\xceWp\xfeU|', 'keyId': 7444173944631853068}}, 'operationTime': Timestamp(1742928072, 6)}
+2025-03-26 00:12:46,542-ERROR-❌ Failed to connect to MongoDB: db already exists with different case already have: [mydatabase] trying to create [MyDatabase], full error: {'ok': 0.0, 'errmsg': 'db already exists with different case already have: [mydatabase] trying to create [MyDatabase]', 'code': 13297, 'codeName': 'DatabaseDifferCase', '$clusterTime': {'clusterTime': Timestamp(1742928166, 7), 'signature': {'hash': b'\xa3\xef\x9d\x8aF\n\x89\x90\x07{\x9cX\xc8\xd3\x1d\x96U;\xf0\xd8', 'keyId': 7444173944631853068}}, 'operationTime': Timestamp(1742928166, 7)}
+root-2025-03-26 00:12:46,542-ERROR-❌ Failed to connect to MongoDB: db already exists with different case already have: [mydatabase] trying to create [MyDatabase], full error: {'ok': 0.0, 'errmsg': 'db already exists with different case already have: [mydatabase] trying to create [MyDatabase]', 'code': 13297, 'codeName': 'DatabaseDifferCase', '$clusterTime': {'clusterTime': Timestamp(1742928166, 7), 'signature': {'hash': b'\xa3\xef\x9d\x8aF\n\x89\x90\x07{\x9cX\xc8\xd3\x1d\x96U;\xf0\xd8', 'keyId': 7444173944631853068}}, 'operationTime': Timestamp(1742928166, 7)}
+2025-03-26 00:31:04,866-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 00:31:04,867-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 00:31:04,885-INFO- * Restarting with watchdog (inotify)
+2025-03-26 00:31:05,141-WARNING- * Debugger is active!
+werkzeug-2025-03-26 00:31:05,141-WARNING- * Debugger is active!
+2025-03-26 00:31:05,141-INFO- * Debugger PIN: 112-514-888
+2025-03-26 00:31:12,907-INFO-192.168.129.210 - - [26/Mar/2025 00:31:12] "GET / HTTP/1.1" 200 -
+2025-03-26 00:31:12,937-INFO-192.168.129.210 - - [26/Mar/2025 00:31:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-26 00:37:03,813-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 00:37:03,814-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 00:37:03,819-INFO- * Restarting with watchdog (inotify)
+2025-03-26 00:37:05,209-WARNING- * Debugger is active!
+werkzeug-2025-03-26 00:37:05,209-WARNING- * Debugger is active!
+2025-03-26 00:37:05,210-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:20:05,786-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:20:05,786-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:20:05,789-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:20:07,274-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:20:09,634-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:20:09,634-WARNING- * Debugger is active!
+2025-03-26 01:20:09,634-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:20:25,711-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 01:20:25,711-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 01:20:25,716-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:20:27,425-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:20:27,425-WARNING- * Debugger is active!
+2025-03-26 01:20:27,425-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:20:30,339-INFO-127.0.0.1 - - [26/Mar/2025 01:20:30] "GET / HTTP/1.1" 200 -
+2025-03-26 01:20:31,021-INFO-127.0.0.1 - - [26/Mar/2025 01:20:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-26 01:20:38,677-INFO-127.0.0.1 - - [26/Mar/2025 01:20:38] "GET /signup HTTP/1.1" 200 -
+2025-03-26 01:20:55,051-INFO-127.0.0.1 - - [26/Mar/2025 01:20:55] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2025-03-26 01:20:55,073-INFO-127.0.0.1 - - [26/Mar/2025 01:20:55] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-26 01:20:55,073-INFO-127.0.0.1 - - [26/Mar/2025 01:20:55] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-26 01:20:55,092-INFO-127.0.0.1 - - [26/Mar/2025 01:20:55] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-26 01:20:55,104-INFO-127.0.0.1 - - [26/Mar/2025 01:20:55] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-26 01:23:09,279-INFO-127.0.0.1 - - [26/Mar/2025 01:23:09] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:23:17,814-INFO-127.0.0.1 - - [26/Mar/2025 01:23:17] "POST /login HTTP/1.1" 200 -
+2025-03-26 01:23:27,598-INFO-127.0.0.1 - - [26/Mar/2025 01:23:27] "POST /login HTTP/1.1" 200 -
+2025-03-26 01:23:34,948-INFO-127.0.0.1 - - [26/Mar/2025 01:23:34] "POST /login HTTP/1.1" 200 -
+2025-03-26 01:26:34,518-INFO-127.0.0.1 - - [26/Mar/2025 01:26:34] "POST /login HTTP/1.1" 200 -
+2025-03-26 01:26:48,050-INFO-127.0.0.1 - - [26/Mar/2025 01:26:48] "[33mGET /home HTTP/1.1[0m" 404 -
+2025-03-26 01:30:23,813-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 01:30:23,813-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 01:30:23,825-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:30:25,566-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:30:25,566-WARNING- * Debugger is active!
+2025-03-26 01:30:25,592-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:30:31,588-INFO-192.168.129.210 - - [26/Mar/2025 01:30:31] "GET / HTTP/1.1" 200 -
+2025-03-26 01:30:41,623-INFO-192.168.129.210 - - [26/Mar/2025 01:30:41] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:30:53,142-INFO-192.168.129.210 - - [26/Mar/2025 01:30:53] "POST /login HTTP/1.1" 200 -
+2025-03-26 01:35:11,966-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:35:11,967-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:35:11,971-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:35:13,535-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:35:16,090-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:35:16,090-WARNING- * Debugger is active!
+2025-03-26 01:35:16,091-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:35:25,181-INFO-192.168.129.210 - - [26/Mar/2025 01:35:25] "GET / HTTP/1.1" 200 -
+2025-03-26 01:35:27,228-INFO-192.168.129.210 - - [26/Mar/2025 01:35:27] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:35:35,599-INFO-192.168.129.210 - - [26/Mar/2025 01:35:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 01:35:35,604-INFO-192.168.129.210 - - [26/Mar/2025 01:35:35] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:35:40,718-INFO-192.168.129.210 - - [26/Mar/2025 01:35:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 01:35:40,724-INFO-192.168.129.210 - - [26/Mar/2025 01:35:40] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:37:01,399-INFO-192.168.129.210 - - [26/Mar/2025 01:37:01] "GET /signup HTTP/1.1" 200 -
+2025-03-26 01:37:16,645-INFO-192.168.129.210 - - [26/Mar/2025 01:37:16] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2025-03-26 01:37:16,674-INFO-192.168.129.210 - - [26/Mar/2025 01:37:16] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-26 01:37:16,676-INFO-192.168.129.210 - - [26/Mar/2025 01:37:16] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-26 01:37:16,721-INFO-192.168.129.210 - - [26/Mar/2025 01:37:16] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-26 01:37:16,744-INFO-192.168.129.210 - - [26/Mar/2025 01:37:16] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-26 01:44:55,281-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:44:55,282-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:44:55,286-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:44:56,899-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:45:00,185-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:45:00,185-WARNING- * Debugger is active!
+2025-03-26 01:45:00,185-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:45:20,096-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 01:45:20,096-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 01:45:20,108-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:45:32,875-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:45:32,875-WARNING- * Debugger is active!
+2025-03-26 01:45:32,875-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:45:33,335-INFO-192.168.129.210 - - [26/Mar/2025 01:45:33] "GET / HTTP/1.1" 200 -
+2025-03-26 01:45:37,139-INFO-192.168.129.210 - - [26/Mar/2025 01:45:37] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:45:46,311-INFO-192.168.129.210 - - [26/Mar/2025 01:45:46] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-03-26 01:45:46,350-INFO-192.168.129.210 - - [26/Mar/2025 01:45:46] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-26 01:45:46,351-INFO-192.168.129.210 - - [26/Mar/2025 01:45:46] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-26 01:45:46,369-INFO-192.168.129.210 - - [26/Mar/2025 01:45:46] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-26 01:45:46,378-INFO-192.168.129.210 - - [26/Mar/2025 01:45:46] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-26 01:49:16,009-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:49:16,010-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:49:16,014-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:49:17,610-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:49:21,031-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:49:21,031-WARNING- * Debugger is active!
+2025-03-26 01:49:21,032-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:52:36,458-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:52:36,459-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:52:36,462-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 01:52:37,944-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:52:48,431-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 01:52:48,431-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 01:52:48,441-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:52:50,293-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:52:50,293-WARNING- * Debugger is active!
+2025-03-26 01:52:50,293-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:52:53,678-INFO-127.0.0.1 - - [26/Mar/2025 01:52:53] "GET / HTTP/1.1" 200 -
+2025-03-26 01:52:57,005-INFO-127.0.0.1 - - [26/Mar/2025 01:52:57] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:53:05,193-INFO-127.0.0.1 - - [26/Mar/2025 01:53:05] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-03-26 01:53:05,223-INFO-127.0.0.1 - - [26/Mar/2025 01:53:05] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-26 01:53:05,224-INFO-127.0.0.1 - - [26/Mar/2025 01:53:05] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-26 01:53:05,240-INFO-127.0.0.1 - - [26/Mar/2025 01:53:05] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-26 01:53:05,248-INFO-127.0.0.1 - - [26/Mar/2025 01:53:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-26 01:57:58,669-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 01:57:58,669-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 01:57:58,682-INFO- * Restarting with watchdog (inotify)
+2025-03-26 01:58:00,555-WARNING- * Debugger is active!
+werkzeug-2025-03-26 01:58:00,555-WARNING- * Debugger is active!
+2025-03-26 01:58:00,556-INFO- * Debugger PIN: 112-514-888
+2025-03-26 01:58:05,981-INFO-127.0.0.1 - - [26/Mar/2025 01:58:05] "GET / HTTP/1.1" 200 -
+2025-03-26 01:58:08,070-INFO-127.0.0.1 - - [26/Mar/2025 01:58:08] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:58:16,965-WARNING-⚠️ Failed login attempt for username: Ankit
+root-2025-03-26 01:58:16,965-WARNING-⚠️ Failed login attempt for username: Ankit
+2025-03-26 01:58:16,968-INFO-127.0.0.1 - - [26/Mar/2025 01:58:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 01:58:16,974-INFO-127.0.0.1 - - [26/Mar/2025 01:58:16] "GET /login HTTP/1.1" 200 -
+2025-03-26 01:58:26,591-WARNING-⚠️ Failed login attempt for username: w
+root-2025-03-26 01:58:26,591-WARNING-⚠️ Failed login attempt for username: w
+2025-03-26 01:58:26,593-INFO-127.0.0.1 - - [26/Mar/2025 01:58:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 01:58:26,598-INFO-127.0.0.1 - - [26/Mar/2025 01:58:26] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:02:57,665-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 02:02:57,665-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 02:02:57,669-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 02:02:59,240-INFO- * Restarting with watchdog (inotify)
+2025-03-26 02:03:02,390-WARNING- * Debugger is active!
+werkzeug-2025-03-26 02:03:02,390-WARNING- * Debugger is active!
+2025-03-26 02:03:02,391-INFO- * Debugger PIN: 112-514-888
+2025-03-26 02:06:38,901-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 02:06:38,901-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 02:06:38,913-INFO- * Restarting with watchdog (inotify)
+2025-03-26 02:06:40,871-WARNING- * Debugger is active!
+werkzeug-2025-03-26 02:06:40,871-WARNING- * Debugger is active!
+2025-03-26 02:06:40,872-INFO- * Debugger PIN: 112-514-888
+2025-03-26 02:06:44,921-INFO-192.168.129.210 - - [26/Mar/2025 02:06:44] "GET / HTTP/1.1" 200 -
+2025-03-26 02:06:46,899-INFO-192.168.129.210 - - [26/Mar/2025 02:06:46] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:06:51,120-WARNING-⚠️ Failed login attempt for username: s
+root-2025-03-26 02:06:51,120-WARNING-⚠️ Failed login attempt for username: s
+2025-03-26 02:06:51,122-INFO-192.168.129.210 - - [26/Mar/2025 02:06:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 02:06:51,127-INFO-192.168.129.210 - - [26/Mar/2025 02:06:51] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:06:56,638-INFO-192.168.129.210 - - [26/Mar/2025 02:06:56] "GET /signup HTTP/1.1" 200 -
+2025-03-26 02:07:01,201-INFO-192.168.129.210 - - [26/Mar/2025 02:07:01] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 02:07:01,206-INFO-192.168.129.210 - - [26/Mar/2025 02:07:01] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:19:33,862-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 02:19:33,862-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 02:19:33,868-INFO- * Restarting with watchdog (inotify)
+2025-03-26 02:19:35,712-WARNING- * Debugger is active!
+werkzeug-2025-03-26 02:19:35,712-WARNING- * Debugger is active!
+2025-03-26 02:19:35,712-INFO- * Debugger PIN: 112-514-888
+2025-03-26 02:19:41,977-INFO-192.168.129.210 - - [26/Mar/2025 02:19:41] "GET / HTTP/1.1" 200 -
+2025-03-26 02:19:45,066-INFO-192.168.129.210 - - [26/Mar/2025 02:19:45] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:19:50,182-INFO-192.168.129.210 - - [26/Mar/2025 02:19:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 02:19:50,186-INFO-192.168.129.210 - - [26/Mar/2025 02:19:50] "GET / HTTP/1.1" 200 -
+2025-03-26 02:19:54,243-INFO-192.168.129.210 - - [26/Mar/2025 02:19:54] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-26 02:19:54,254-INFO-192.168.129.210 - - [26/Mar/2025 02:19:54] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:19:59,899-WARNING-⚠️ Failed login attempt for 'e'
+root-2025-03-26 02:19:59,899-WARNING-⚠️ Failed login attempt for 'e'
+2025-03-26 02:19:59,902-INFO-192.168.129.210 - - [26/Mar/2025 02:19:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 02:19:59,909-INFO-192.168.129.210 - - [26/Mar/2025 02:19:59] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:20:20,379-WARNING-⚠️ Failed login attempt for 'Ankit'
+root-2025-03-26 02:20:20,379-WARNING-⚠️ Failed login attempt for 'Ankit'
+2025-03-26 02:20:20,382-INFO-192.168.129.210 - - [26/Mar/2025 02:20:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 02:20:20,389-INFO-192.168.129.210 - - [26/Mar/2025 02:20:20] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:20:25,614-INFO-192.168.129.210 - - [26/Mar/2025 02:20:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 02:20:25,618-INFO-192.168.129.210 - - [26/Mar/2025 02:20:25] "GET / HTTP/1.1" 200 -
+2025-03-26 02:20:27,414-INFO-192.168.129.210 - - [26/Mar/2025 02:20:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-26 02:20:27,425-INFO-192.168.129.210 - - [26/Mar/2025 02:20:27] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:20:29,115-INFO-192.168.129.210 - - [26/Mar/2025 02:20:29] "GET /signup HTTP/1.1" 200 -
+2025-03-26 02:20:42,705-INFO-192.168.129.210 - - [26/Mar/2025 02:20:42] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 02:20:42,713-INFO-192.168.129.210 - - [26/Mar/2025 02:20:42] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:20:52,691-INFO-192.168.129.210 - - [26/Mar/2025 02:20:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 02:20:52,696-INFO-192.168.129.210 - - [26/Mar/2025 02:20:52] "GET / HTTP/1.1" 200 -
+2025-03-26 02:21:00,996-INFO-192.168.129.210 - - [26/Mar/2025 02:21:00] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-26 02:21:01,005-INFO-192.168.129.210 - - [26/Mar/2025 02:21:01] "GET /login HTTP/1.1" 200 -
+2025-03-26 02:21:18,311-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 02:21:18,312-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 02:21:18,339-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 02:21:19,826-INFO- * Restarting with watchdog (inotify)
+2025-03-26 02:21:23,290-WARNING- * Debugger is active!
+werkzeug-2025-03-26 02:21:23,290-WARNING- * Debugger is active!
+2025-03-26 02:21:23,291-INFO- * Debugger PIN: 112-514-888
+2025-03-26 23:18:07,669-WARNING-This is the warning message !
+root-2025-03-26 23:18:07,669-WARNING-This is the warning message !
+2025-03-26 23:18:07,670-CRITICAL-This is the critical error !
+root-2025-03-26 23:18:07,670-CRITICAL-This is the critical error !
+2025-03-26 23:18:07,670-ERROR-This is the ERROR message !
+root-2025-03-26 23:18:07,670-ERROR-This is the ERROR message !
+2025-03-26 23:25:27,338-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 23:25:27,338-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 23:25:27,354-INFO- * Restarting with watchdog (inotify)
+2025-03-26 23:25:30,018-WARNING- * Debugger is active!
+werkzeug-2025-03-26 23:25:30,018-WARNING- * Debugger is active!
+2025-03-26 23:25:30,028-INFO- * Debugger PIN: 546-153-282
+2025-03-26 23:25:35,112-INFO-192.168.129.210 - - [26/Mar/2025 23:25:35] "GET / HTTP/1.1" 200 -
+2025-03-26 23:25:35,195-INFO-192.168.129.210 - - [26/Mar/2025 23:25:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-26 23:25:37,595-INFO-192.168.129.210 - - [26/Mar/2025 23:25:37] "GET /login HTTP/1.1" 200 -
+2025-03-26 23:25:42,401-INFO-192.168.129.210 - - [26/Mar/2025 23:25:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-26 23:25:42,405-INFO-192.168.129.210 - - [26/Mar/2025 23:25:42] "GET / HTTP/1.1" 200 -
+2025-03-26 23:25:44,898-INFO-192.168.129.210 - - [26/Mar/2025 23:25:44] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-26 23:25:44,909-INFO-192.168.129.210 - - [26/Mar/2025 23:25:44] "GET /login HTTP/1.1" 200 -
+2025-03-26 23:25:49,089-INFO-192.168.129.210 - - [26/Mar/2025 23:25:49] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:25:55,395-ERROR-❌ User 'w' already exists!
+root-2025-03-26 23:25:55,395-ERROR-❌ User 'w' already exists!
+2025-03-26 23:25:55,398-INFO-192.168.129.210 - - [26/Mar/2025 23:25:55] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:25:55,406-INFO-192.168.129.210 - - [26/Mar/2025 23:25:55] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:40:32,274-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 23:40:32,275-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 23:40:32,279-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 23:40:33,778-INFO- * Restarting with watchdog (inotify)
+2025-03-26 23:40:40,114-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 23:40:40,114-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 23:40:40,125-INFO- * Restarting with watchdog (inotify)
+2025-03-26 23:40:42,268-WARNING- * Debugger is active!
+werkzeug-2025-03-26 23:40:42,268-WARNING- * Debugger is active!
+2025-03-26 23:40:42,268-INFO- * Debugger PIN: 546-153-282
+2025-03-26 23:40:46,662-INFO-192.168.129.210 - - [26/Mar/2025 23:40:46] "GET / HTTP/1.1" 200 -
+2025-03-26 23:40:50,112-INFO-192.168.129.210 - - [26/Mar/2025 23:40:50] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:41:03,441-INFO-192.168.129.210 - - [26/Mar/2025 23:41:03] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:41:03,450-INFO-192.168.129.210 - - [26/Mar/2025 23:41:03] "GET /login HTTP/1.1" 200 -
+2025-03-26 23:41:07,652-INFO-192.168.129.210 - - [26/Mar/2025 23:41:07] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:41:18,017-ERROR-❌ User '1' already exists!
+root-2025-03-26 23:41:18,017-ERROR-❌ User '1' already exists!
+2025-03-26 23:41:18,022-INFO-192.168.129.210 - - [26/Mar/2025 23:41:18] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:41:18,029-INFO-192.168.129.210 - - [26/Mar/2025 23:41:18] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:41:24,366-ERROR-❌ User '1' already exists!
+root-2025-03-26 23:41:24,366-ERROR-❌ User '1' already exists!
+2025-03-26 23:41:24,370-INFO-192.168.129.210 - - [26/Mar/2025 23:41:24] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:41:24,377-INFO-192.168.129.210 - - [26/Mar/2025 23:41:24] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:41:34,817-INFO-192.168.129.210 - - [26/Mar/2025 23:41:34] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:41:34,823-INFO-192.168.129.210 - - [26/Mar/2025 23:41:34] "GET /login HTTP/1.1" 200 -
+2025-03-26 23:44:45,773-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 23:44:45,774-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 23:44:45,780-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-26 23:44:47,232-INFO- * Restarting with watchdog (inotify)
+2025-03-26 23:47:09,432-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-26 23:47:09,433-INFO-[33mPress CTRL+C to quit[0m
+2025-03-26 23:47:09,443-INFO- * Restarting with watchdog (inotify)
+2025-03-26 23:47:12,065-WARNING- * Debugger is active!
+werkzeug-2025-03-26 23:47:12,065-WARNING- * Debugger is active!
+2025-03-26 23:47:12,065-INFO- * Debugger PIN: 546-153-282
+2025-03-26 23:47:19,798-INFO-192.168.129.210 - - [26/Mar/2025 23:47:19] "GET / HTTP/1.1" 200 -
+2025-03-26 23:47:21,710-INFO-192.168.129.210 - - [26/Mar/2025 23:47:21] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:47:30,754-ERROR-❌ User '1' already exists!
+root-2025-03-26 23:47:30,754-ERROR-❌ User '1' already exists!
+2025-03-26 23:47:30,759-INFO-192.168.129.210 - - [26/Mar/2025 23:47:30] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:47:30,767-INFO-192.168.129.210 - - [26/Mar/2025 23:47:30] "GET /signup HTTP/1.1" 200 -
+2025-03-26 23:47:37,684-INFO-192.168.129.210 - - [26/Mar/2025 23:47:37] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-26 23:47:37,695-INFO-192.168.129.210 - - [26/Mar/2025 23:47:37] "GET /login HTTP/1.1" 200 -
+2025-03-27 00:08:36,146-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 00:08:36,146-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 00:08:36,157-INFO- * Restarting with watchdog (inotify)
+2025-03-27 00:08:40,086-WARNING- * Debugger is active!
+werkzeug-2025-03-27 00:08:40,086-WARNING- * Debugger is active!
+2025-03-27 00:08:40,087-INFO- * Debugger PIN: 546-153-282
+2025-03-27 00:09:47,614-INFO-192.168.129.210 - - [27/Mar/2025 00:09:47] "GET / HTTP/1.1" 200 -
+2025-03-27 00:09:53,526-INFO-192.168.129.210 - - [27/Mar/2025 00:09:53] "GET /signup HTTP/1.1" 200 -
+2025-03-27 00:11:04,753-INFO-192.168.129.210 - - [27/Mar/2025 00:11:04] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-27 00:11:04,759-INFO-192.168.129.210 - - [27/Mar/2025 00:11:04] "GET /signup HTTP/1.1" 200 -
+2025-03-27 00:11:19,988-INFO-192.168.129.210 - - [27/Mar/2025 00:11:19] "GET /login HTTP/1.1" 200 -
+2025-03-27 00:11:25,175-INFO-192.168.129.210 - - [27/Mar/2025 00:11:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 00:11:25,182-INFO-192.168.129.210 - - [27/Mar/2025 00:11:25] "GET / HTTP/1.1" 200 -
+2025-03-27 00:11:27,615-INFO-192.168.129.210 - - [27/Mar/2025 00:11:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 00:11:27,625-INFO-192.168.129.210 - - [27/Mar/2025 00:11:27] "GET /login HTTP/1.1" 200 -
+2025-03-27 00:14:26,852-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 00:14:26,852-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 00:14:26,863-INFO- * Restarting with watchdog (inotify)
+2025-03-27 00:14:28,838-WARNING- * Debugger is active!
+werkzeug-2025-03-27 00:14:28,838-WARNING- * Debugger is active!
+2025-03-27 00:14:28,838-INFO- * Debugger PIN: 546-153-282
+2025-03-27 00:14:41,230-INFO-192.168.129.210 - - [27/Mar/2025 00:14:41] "GET / HTTP/1.1" 200 -
+2025-03-27 00:19:50,158-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 00:19:50,158-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 00:19:50,168-INFO- * Restarting with watchdog (inotify)
+2025-03-27 00:19:51,930-WARNING- * Debugger is active!
+werkzeug-2025-03-27 00:19:51,930-WARNING- * Debugger is active!
+2025-03-27 00:19:51,930-INFO- * Debugger PIN: 546-153-282
+2025-03-27 00:19:58,525-INFO-192.168.129.210 - - [27/Mar/2025 00:19:58] "GET / HTTP/1.1" 200 -
+2025-03-27 00:20:05,004-INFO-192.168.129.210 - - [27/Mar/2025 00:20:05] "GET /login HTTP/1.1" 200 -
+2025-03-27 00:20:14,914-INFO-192.168.129.210 - - [27/Mar/2025 00:20:14] "GET /signup HTTP/1.1" 200 -
+2025-03-27 00:48:23,977-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/scrap.py', reloading
+2025-03-27 00:48:23,977-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/scrap.py', reloading
+2025-03-27 00:48:23,979-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/scrap.py', reloading
+2025-03-27 00:48:25,563-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:18:46,016-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 01:18:46,016-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 01:18:46,028-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:18:50,655-WARNING- * Debugger is active!
+werkzeug-2025-03-27 01:18:50,655-WARNING- * Debugger is active!
+2025-03-27 01:18:50,655-INFO- * Debugger PIN: 546-153-282
+2025-03-27 01:18:54,761-INFO-192.168.129.210 - - [27/Mar/2025 01:18:54] "GET / HTTP/1.1" 200 -
+2025-03-27 01:19:01,777-INFO-192.168.129.210 - - [27/Mar/2025 01:19:01] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:19:15,852-INFO-192.168.129.210 - - [27/Mar/2025 01:19:15] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:19:20,584-INFO-192.168.129.210 - - [27/Mar/2025 01:19:20] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:19:43,906-INFO-192.168.129.210 - - [27/Mar/2025 01:19:43] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:24:57,151-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-27 01:24:57,155-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-27 01:24:58,634-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:25:13,162-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 01:25:13,162-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 01:25:13,167-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:25:20,999-WARNING- * Debugger is active!
+werkzeug-2025-03-27 01:25:20,999-WARNING- * Debugger is active!
+2025-03-27 01:25:20,999-INFO- * Debugger PIN: 546-153-282
+2025-03-27 01:25:23,168-INFO-192.168.129.210 - - [27/Mar/2025 01:25:23] "GET / HTTP/1.1" 200 -
+2025-03-27 01:25:29,427-INFO-192.168.129.210 - - [27/Mar/2025 01:25:29] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:25:43,004-INFO-192.168.129.210 - - [27/Mar/2025 01:25:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 01:25:43,007-INFO-192.168.129.210 - - [27/Mar/2025 01:25:43] "GET / HTTP/1.1" 200 -
+2025-03-27 01:26:24,019-INFO-192.168.129.210 - - [27/Mar/2025 01:26:24] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 01:26:24,024-INFO-192.168.129.210 - - [27/Mar/2025 01:26:24] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:28:28,907-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 01:28:28,907-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 01:28:28,914-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:28:31,654-WARNING- * Debugger is active!
+werkzeug-2025-03-27 01:28:31,654-WARNING- * Debugger is active!
+2025-03-27 01:28:31,654-INFO- * Debugger PIN: 546-153-282
+2025-03-27 01:28:36,395-INFO-192.168.129.210 - - [27/Mar/2025 01:28:36] "GET / HTTP/1.1" 200 -
+2025-03-27 01:28:45,928-INFO-192.168.129.210 - - [27/Mar/2025 01:28:45] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:28:50,896-INFO-192.168.129.210 - - [27/Mar/2025 01:28:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 01:28:50,904-INFO-192.168.129.210 - - [27/Mar/2025 01:28:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-27 01:28:50,924-INFO-192.168.129.210 - - [27/Mar/2025 01:28:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-27 01:28:50,924-INFO-192.168.129.210 - - [27/Mar/2025 01:28:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-27 01:28:50,933-INFO-192.168.129.210 - - [27/Mar/2025 01:28:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-27 01:28:50,948-INFO-192.168.129.210 - - [27/Mar/2025 01:28:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-27 01:32:21,685-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 01:32:21,685-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 01:32:21,691-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:32:25,329-WARNING- * Debugger is active!
+werkzeug-2025-03-27 01:32:25,329-WARNING- * Debugger is active!
+2025-03-27 01:32:25,330-INFO- * Debugger PIN: 546-153-282
+2025-03-27 01:32:39,803-INFO-192.168.129.210 - - [27/Mar/2025 01:32:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-27 01:32:39,892-INFO-192.168.129.210 - - [27/Mar/2025 01:32:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-27 01:32:39,894-INFO-192.168.129.210 - - [27/Mar/2025 01:32:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-27 01:32:39,900-INFO-192.168.129.210 - - [27/Mar/2025 01:32:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-27 01:34:53,157-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 01:34:53,157-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 01:34:53,168-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:34:56,782-WARNING- * Debugger is active!
+werkzeug-2025-03-27 01:34:56,782-WARNING- * Debugger is active!
+2025-03-27 01:34:56,782-INFO- * Debugger PIN: 546-153-282
+2025-03-27 01:35:01,511-INFO-192.168.129.210 - - [27/Mar/2025 01:35:01] "GET / HTTP/1.1" 200 -
+2025-03-27 01:35:12,745-INFO-192.168.129.210 - - [27/Mar/2025 01:35:12] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 01:35:12,751-INFO-192.168.129.210 - - [27/Mar/2025 01:35:12] "GET /login HTTP/1.1" 200 -
+2025-03-27 01:35:19,813-INFO-192.168.129.210 - - [27/Mar/2025 01:35:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 01:35:19,817-INFO-192.168.129.210 - - [27/Mar/2025 01:35:19] "GET / HTTP/1.1" 200 -
+2025-03-27 01:35:21,855-INFO-192.168.129.210 - - [27/Mar/2025 01:35:21] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-27 01:35:38,364-INFO-192.168.129.210 - - [27/Mar/2025 01:35:38] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2025-03-27 01:35:38,384-INFO-192.168.129.210 - - [27/Mar/2025 01:35:38] "GET /scrape?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-27 01:35:38,384-INFO-192.168.129.210 - - [27/Mar/2025 01:35:38] "GET /scrape?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-27 01:35:38,392-INFO-192.168.129.210 - - [27/Mar/2025 01:35:38] "GET /scrape?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-27 01:35:38,402-INFO-192.168.129.210 - - [27/Mar/2025 01:35:38] "[36mGET /scrape?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-27 01:38:19,212-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 01:38:19,212-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 01:38:19,218-INFO- * Restarting with watchdog (inotify)
+2025-03-27 01:38:22,484-WARNING- * Debugger is active!
+werkzeug-2025-03-27 01:38:22,484-WARNING- * Debugger is active!
+2025-03-27 01:38:22,484-INFO- * Debugger PIN: 546-153-282
+2025-03-27 01:38:25,798-INFO-192.168.129.210 - - [27/Mar/2025 01:38:25] "GET / HTTP/1.1" 200 -
+2025-03-27 01:38:28,291-INFO-192.168.129.210 - - [27/Mar/2025 01:38:28] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-27 01:38:39,165-INFO-192.168.129.210 - - [27/Mar/2025 01:38:39] "POST /scrape HTTP/1.1" 200 -
+2025-03-27 01:38:39,193-INFO-192.168.129.210 - - [27/Mar/2025 01:38:39] "GET /static/images/animals_1.jpg HTTP/1.1" 200 -
+2025-03-27 01:38:39,194-INFO-192.168.129.210 - - [27/Mar/2025 01:38:39] "GET /static/images/animals_2.jpg HTTP/1.1" 200 -
+2025-03-27 01:38:39,194-INFO-192.168.129.210 - - [27/Mar/2025 01:38:39] "GET /static/images/animals_5.jpg HTTP/1.1" 200 -
+2025-03-27 01:38:39,195-INFO-192.168.129.210 - - [27/Mar/2025 01:38:39] "GET /static/images/animals_3.jpg HTTP/1.1" 200 -
+2025-03-27 01:38:39,195-INFO-192.168.129.210 - - [27/Mar/2025 01:38:39] "GET /static/images/animals_4.jpg HTTP/1.1" 200 -
+2025-03-27 01:38:46,230-INFO-192.168.129.210 - - [27/Mar/2025 01:38:46] "GET /scrape HTTP/1.1" 200 -
+2025-03-27 01:39:32,948-INFO-192.168.129.210 - - [27/Mar/2025 01:39:32] "POST /scrape HTTP/1.1" 200 -
+2025-03-27 01:39:43,864-INFO-192.168.129.210 - - [27/Mar/2025 01:39:43] "GET /scrape HTTP/1.1" 200 -
+2025-03-27 01:40:27,082-INFO-192.168.129.210 - - [27/Mar/2025 01:40:27] "POST /scrape HTTP/1.1" 200 -
+2025-03-27 01:40:27,109-INFO-192.168.129.210 - - [27/Mar/2025 01:40:27] "GET /static/images/places_1.jpg HTTP/1.1" 200 -
+2025-03-27 01:40:27,111-INFO-192.168.129.210 - - [27/Mar/2025 01:40:27] "GET /static/images/places_2.jpg HTTP/1.1" 200 -
+2025-03-27 01:40:27,112-INFO-192.168.129.210 - - [27/Mar/2025 01:40:27] "GET /static/images/places_3.jpg HTTP/1.1" 200 -
+2025-03-27 01:40:27,112-INFO-192.168.129.210 - - [27/Mar/2025 01:40:27] "GET /static/images/places_4.jpg HTTP/1.1" 200 -
+2025-03-27 01:40:27,113-INFO-192.168.129.210 - - [27/Mar/2025 01:40:27] "GET /static/images/places_5.jpg HTTP/1.1" 200 -
+2025-03-27 01:40:29,496-INFO-192.168.129.210 - - [27/Mar/2025 01:40:29] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 01:40:29,506-INFO-192.168.129.210 - - [27/Mar/2025 01:40:29] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:16:01,585-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.172.210:5000
+2025-03-27 02:16:01,586-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 02:16:01,605-INFO- * Restarting with watchdog (inotify)
+2025-03-27 02:16:05,106-WARNING- * Debugger is active!
+werkzeug-2025-03-27 02:16:05,106-WARNING- * Debugger is active!
+2025-03-27 02:16:05,108-INFO- * Debugger PIN: 546-153-282
+2025-03-27 02:16:10,144-INFO-192.168.172.210 - - [27/Mar/2025 02:16:10] "GET / HTTP/1.1" 200 -
+2025-03-27 02:16:11,671-INFO-192.168.172.210 - - [27/Mar/2025 02:16:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-27 02:16:21,772-INFO-192.168.172.210 - - [27/Mar/2025 02:16:21] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:16:31,816-INFO-192.168.172.210 - - [27/Mar/2025 02:16:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 02:16:31,820-INFO-192.168.172.210 - - [27/Mar/2025 02:16:31] "GET / HTTP/1.1" 200 -
+2025-03-27 02:16:37,404-INFO-192.168.172.210 - - [27/Mar/2025 02:16:37] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-27 02:17:06,156-INFO-192.168.172.210 - - [27/Mar/2025 02:17:06] "POST /scrape HTTP/1.1" 200 -
+2025-03-27 02:17:06,229-INFO-192.168.172.210 - - [27/Mar/2025 02:17:06] "GET /static/images/bike_5.jpg HTTP/1.1" 200 -
+2025-03-27 02:17:06,230-INFO-192.168.172.210 - - [27/Mar/2025 02:17:06] "GET /static/images/bike_3.jpg HTTP/1.1" 200 -
+2025-03-27 02:17:06,230-INFO-192.168.172.210 - - [27/Mar/2025 02:17:06] "GET /static/images/bike_2.jpg HTTP/1.1" 200 -
+2025-03-27 02:17:06,231-INFO-192.168.172.210 - - [27/Mar/2025 02:17:06] "GET /static/images/bike_4.jpg HTTP/1.1" 200 -
+2025-03-27 02:17:06,232-INFO-192.168.172.210 - - [27/Mar/2025 02:17:06] "GET /static/images/bike_1.jpg HTTP/1.1" 200 -
+2025-03-27 02:17:12,845-INFO-192.168.172.210 - - [27/Mar/2025 02:17:12] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 02:17:12,856-INFO-192.168.172.210 - - [27/Mar/2025 02:17:12] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:44:32,015-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.172.210:5000
+2025-03-27 02:44:32,016-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 02:44:32,031-INFO- * Restarting with watchdog (inotify)
+2025-03-27 02:44:34,916-WARNING- * Debugger is active!
+werkzeug-2025-03-27 02:44:34,916-WARNING- * Debugger is active!
+2025-03-27 02:44:34,917-INFO- * Debugger PIN: 546-153-282
+2025-03-27 02:44:41,948-INFO-192.168.172.210 - - [27/Mar/2025 02:44:41] "GET / HTTP/1.1" 200 -
+2025-03-27 02:44:47,427-INFO-192.168.172.210 - - [27/Mar/2025 02:44:47] "GET /signup HTTP/1.1" 200 -
+2025-03-27 02:45:48,086-INFO-192.168.172.210 - - [27/Mar/2025 02:45:48] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-27 02:45:48,102-INFO-192.168.172.210 - - [27/Mar/2025 02:45:48] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:47:08,334-WARNING-⚠️ Failed login attempt for 'omm12'
+root-2025-03-27 02:47:08,334-WARNING-⚠️ Failed login attempt for 'omm12'
+2025-03-27 02:47:08,342-INFO-192.168.172.210 - - [27/Mar/2025 02:47:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 02:47:08,347-INFO-192.168.172.210 - - [27/Mar/2025 02:47:08] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:47:19,186-WARNING-⚠️ Failed login attempt for 'omm12'
+root-2025-03-27 02:47:19,186-WARNING-⚠️ Failed login attempt for 'omm12'
+2025-03-27 02:47:19,191-INFO-192.168.172.210 - - [27/Mar/2025 02:47:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 02:47:19,195-INFO-192.168.172.210 - - [27/Mar/2025 02:47:19] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:48:06,201-WARNING-⚠️ Failed login attempt for 'omm12'
+root-2025-03-27 02:48:06,201-WARNING-⚠️ Failed login attempt for 'omm12'
+2025-03-27 02:48:06,212-INFO-192.168.172.210 - - [27/Mar/2025 02:48:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 02:48:06,218-INFO-192.168.172.210 - - [27/Mar/2025 02:48:06] "GET /login HTTP/1.1" 200 -
+2025-03-27 02:48:16,591-INFO-192.168.172.210 - - [27/Mar/2025 02:48:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 02:48:16,599-INFO-192.168.172.210 - - [27/Mar/2025 02:48:16] "GET / HTTP/1.1" 200 -
+2025-03-27 02:48:22,005-INFO-192.168.172.210 - - [27/Mar/2025 02:48:22] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-27 02:48:44,532-INFO-192.168.172.210 - - [27/Mar/2025 02:48:44] "POST /scrape HTTP/1.1" 200 -
+2025-03-27 02:48:44,606-INFO-192.168.172.210 - - [27/Mar/2025 02:48:44] "GET /static/images/books_3.jpg HTTP/1.1" 200 -
+2025-03-27 02:48:44,608-INFO-192.168.172.210 - - [27/Mar/2025 02:48:44] "GET /static/images/books_4.jpg HTTP/1.1" 200 -
+2025-03-27 02:48:44,610-INFO-192.168.172.210 - - [27/Mar/2025 02:48:44] "GET /static/images/books_1.jpg HTTP/1.1" 200 -
+2025-03-27 02:48:44,613-INFO-192.168.172.210 - - [27/Mar/2025 02:48:44] "GET /static/images/books_5.jpg HTTP/1.1" 200 -
+2025-03-27 02:48:44,614-INFO-192.168.172.210 - - [27/Mar/2025 02:48:44] "GET /static/images/books_2.jpg HTTP/1.1" 200 -
+2025-03-27 02:48:50,950-INFO-192.168.172.210 - - [27/Mar/2025 02:48:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 02:48:50,961-INFO-192.168.172.210 - - [27/Mar/2025 02:48:50] "GET /login HTTP/1.1" 200 -
+2025-03-27 23:21:02,214-WARNING-This is the warning message !
+root-2025-03-27 23:21:02,214-WARNING-This is the warning message !
+2025-03-27 23:21:02,215-CRITICAL-This is the critical error !
+root-2025-03-27 23:21:02,215-CRITICAL-This is the critical error !
+2025-03-27 23:21:02,215-ERROR-This is the ERROR message !
+root-2025-03-27 23:21:02,215-ERROR-This is the ERROR message !
+2025-03-27 23:21:45,369-ERROR-❌ Failed to connect to MongoDB: No replica set members match selector "Primary()", Timeout: 30s, Topology Description: <TopologyDescription id: 67e590133d735abb99f69ad6, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.62dva.mongodb.net', 27017) server_type: RSSecondary, rtt: 1.6296135850000155>, <ServerDescription ('cluster0-shard-00-01.62dva.mongodb.net', 27017) server_type: RSSecondary, rtt: 1.576796092400059>, <ServerDescription ('cluster0-shard-00-02.62dva.mongodb.net', 27017) server_type: Unknown, rtt: None>]>
+root-2025-03-27 23:21:45,369-ERROR-❌ Failed to connect to MongoDB: No replica set members match selector "Primary()", Timeout: 30s, Topology Description: <TopologyDescription id: 67e590133d735abb99f69ad6, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.62dva.mongodb.net', 27017) server_type: RSSecondary, rtt: 1.6296135850000155>, <ServerDescription ('cluster0-shard-00-01.62dva.mongodb.net', 27017) server_type: RSSecondary, rtt: 1.576796092400059>, <ServerDescription ('cluster0-shard-00-02.62dva.mongodb.net', 27017) server_type: Unknown, rtt: None>]>
+2025-03-27 23:23:05,090-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-27 23:23:05,090-INFO-[33mPress CTRL+C to quit[0m
+2025-03-27 23:23:05,106-INFO- * Restarting with watchdog (inotify)
+2025-03-27 23:23:36,371-WARNING- * Debugger is active!
+werkzeug-2025-03-27 23:23:36,371-WARNING- * Debugger is active!
+2025-03-27 23:23:36,372-INFO- * Debugger PIN: 113-283-411
+2025-03-27 23:23:36,871-INFO-192.168.129.210 - - [27/Mar/2025 23:23:36] "GET / HTTP/1.1" 200 -
+2025-03-27 23:23:36,934-INFO-192.168.129.210 - - [27/Mar/2025 23:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-27 23:23:43,771-INFO-192.168.129.210 - - [27/Mar/2025 23:23:43] "GET /login HTTP/1.1" 200 -
+2025-03-27 23:23:57,266-WARNING-⚠️ Failed login attempt for 'omm12'
+root-2025-03-27 23:23:57,266-WARNING-⚠️ Failed login attempt for 'omm12'
+2025-03-27 23:23:57,269-INFO-192.168.129.210 - - [27/Mar/2025 23:23:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 23:23:57,273-INFO-192.168.129.210 - - [27/Mar/2025 23:23:57] "GET /login HTTP/1.1" 200 -
+2025-03-27 23:24:09,209-INFO-192.168.129.210 - - [27/Mar/2025 23:24:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-27 23:24:09,214-INFO-192.168.129.210 - - [27/Mar/2025 23:24:09] "GET / HTTP/1.1" 200 -
+2025-03-27 23:24:13,474-INFO-192.168.129.210 - - [27/Mar/2025 23:24:13] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-27 23:25:16,201-INFO-192.168.129.210 - - [27/Mar/2025 23:25:16] "POST /scrape HTTP/1.1" 200 -
+2025-03-27 23:25:16,253-INFO-192.168.129.210 - - [27/Mar/2025 23:25:16] "GET /static/images/girls_1.jpg HTTP/1.1" 200 -
+2025-03-27 23:25:16,257-INFO-192.168.129.210 - - [27/Mar/2025 23:25:16] "GET /static/images/girls_2.jpg HTTP/1.1" 200 -
+2025-03-27 23:25:16,258-INFO-192.168.129.210 - - [27/Mar/2025 23:25:16] "GET /static/images/girls_4.jpg HTTP/1.1" 200 -
+2025-03-27 23:25:16,263-INFO-192.168.129.210 - - [27/Mar/2025 23:25:16] "GET /static/images/girls_3.jpg HTTP/1.1" 200 -
+2025-03-27 23:25:16,264-INFO-192.168.129.210 - - [27/Mar/2025 23:25:16] "GET /static/images/girls_5.jpg HTTP/1.1" 200 -
+2025-03-27 23:25:43,211-INFO-192.168.129.210 - - [27/Mar/2025 23:25:43] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-03-27 23:25:43,220-INFO-192.168.129.210 - - [27/Mar/2025 23:25:43] "GET /login HTTP/1.1" 200 -
+2025-03-27 23:33:29,628-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/test_email.py', reloading
+2025-03-27 23:33:29,632-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/test_email.py', reloading
+2025-03-27 23:33:31,292-INFO- * Restarting with watchdog (inotify)
+2025-03-27 23:33:35,981-WARNING- * Debugger is active!
+werkzeug-2025-03-27 23:33:35,981-WARNING- * Debugger is active!
+2025-03-27 23:33:35,982-INFO- * Debugger PIN: 113-283-411
+2025-03-27 23:34:35,299-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/test_email.py', reloading
+2025-03-27 23:34:35,301-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/test_email.py', reloading
+2025-03-27 23:34:36,858-INFO- * Restarting with watchdog (inotify)
+2025-03-28 00:11:50,286-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-28 00:11:50,286-INFO-[33mPress CTRL+C to quit[0m
+2025-03-28 00:11:50,290-INFO- * Restarting with watchdog (inotify)
+2025-03-28 00:11:53,810-WARNING- * Debugger is active!
+werkzeug-2025-03-28 00:11:53,810-WARNING- * Debugger is active!
+2025-03-28 00:11:53,810-INFO- * Debugger PIN: 113-283-411
+2025-03-28 00:12:01,056-INFO-192.168.129.210 - - [28/Mar/2025 00:12:01] "GET / HTTP/1.1" 200 -
+2025-03-28 00:12:08,739-INFO-192.168.129.210 - - [28/Mar/2025 00:12:08] "GET /login HTTP/1.1" 200 -
+2025-03-28 00:12:20,367-WARNING-⚠️ Failed login attempt for 'omm12'
+root-2025-03-28 00:12:20,367-WARNING-⚠️ Failed login attempt for 'omm12'
+2025-03-28 00:12:20,369-INFO-192.168.129.210 - - [28/Mar/2025 00:12:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-28 00:12:20,372-INFO-192.168.129.210 - - [28/Mar/2025 00:12:20] "GET /login HTTP/1.1" 200 -
+2025-03-28 00:12:31,887-INFO-192.168.129.210 - - [28/Mar/2025 00:12:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-28 00:12:31,890-INFO-192.168.129.210 - - [28/Mar/2025 00:12:31] "GET / HTTP/1.1" 200 -
+2025-03-28 00:12:35,788-INFO-192.168.129.210 - - [28/Mar/2025 00:12:35] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-28 00:13:00,081-INFO-192.168.129.210 - - [28/Mar/2025 00:13:00] "POST /scrape HTTP/1.1" 200 -
+2025-03-28 00:13:00,119-INFO-192.168.129.210 - - [28/Mar/2025 00:13:00] "GET /static/images/ms_dhoni_4.jpg HTTP/1.1" 200 -
+2025-03-28 00:13:00,120-INFO-192.168.129.210 - - [28/Mar/2025 00:13:00] "GET /static/images/ms_dhoni_3.jpg HTTP/1.1" 200 -
+2025-03-28 00:13:00,121-INFO-192.168.129.210 - - [28/Mar/2025 00:13:00] "GET /static/images/ms_dhoni_1.jpg HTTP/1.1" 200 -
+2025-03-28 00:13:00,121-INFO-192.168.129.210 - - [28/Mar/2025 00:13:00] "GET /static/images/ms_dhoni_2.jpg HTTP/1.1" 200 -
+2025-03-28 00:13:00,122-INFO-192.168.129.210 - - [28/Mar/2025 00:13:00] "GET /static/images/ms_dhoni_5.jpg HTTP/1.1" 200 -
+2025-03-28 00:13:10,073-INFO-192.168.129.210 - - [28/Mar/2025 00:13:10] "GET /scrape HTTP/1.1" 200 -
+2025-03-28 00:17:37,400-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-28 00:17:37,400-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-28 00:17:37,404-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-28 00:17:38,941-INFO- * Restarting with watchdog (inotify)
+2025-03-28 00:18:01,929-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-28 00:18:01,929-INFO-[33mPress CTRL+C to quit[0m
+2025-03-28 00:18:01,934-INFO- * Restarting with watchdog (inotify)
+2025-03-28 00:18:07,394-WARNING- * Debugger is active!
+werkzeug-2025-03-28 00:18:07,394-WARNING- * Debugger is active!
+2025-03-28 00:18:07,394-INFO- * Debugger PIN: 113-283-411
+2025-03-28 00:18:31,333-INFO-192.168.129.210 - - [28/Mar/2025 00:18:31] "GET / HTTP/1.1" 200 -
+2025-03-28 00:18:38,184-INFO-192.168.129.210 - - [28/Mar/2025 00:18:38] "[35m[1mGET /scrape?choice=images HTTP/1.1[0m" 500 -
+2025-03-28 00:18:38,216-INFO-192.168.129.210 - - [28/Mar/2025 00:18:38] "[36mGET /scrape?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-28 00:18:38,217-INFO-192.168.129.210 - - [28/Mar/2025 00:18:38] "[36mGET /scrape?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-28 00:18:38,226-INFO-192.168.129.210 - - [28/Mar/2025 00:18:38] "[36mGET /scrape?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-28 00:18:38,238-INFO-192.168.129.210 - - [28/Mar/2025 00:18:38] "[36mGET /scrape?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-28 00:21:10,567-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-28 00:21:10,571-INFO- * Detected change in '/home/ankit/INTERNSHIP_PROJECT/Flask_API.py', reloading
+2025-03-28 00:21:12,160-INFO- * Restarting with watchdog (inotify)
+2025-03-28 00:21:25,560-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.129.210:5000
+2025-03-28 00:21:25,560-INFO-[33mPress CTRL+C to quit[0m
+2025-03-28 00:21:25,564-INFO- * Restarting with watchdog (inotify)
+2025-03-28 00:21:32,606-WARNING- * Debugger is active!
+werkzeug-2025-03-28 00:21:32,606-WARNING- * Debugger is active!
+2025-03-28 00:21:32,606-INFO- * Debugger PIN: 113-283-411
+2025-03-28 00:21:43,860-INFO-192.168.129.210 - - [28/Mar/2025 00:21:43] "GET / HTTP/1.1" 200 -
+2025-03-28 00:21:52,381-INFO-192.168.129.210 - - [28/Mar/2025 00:21:52] "GET /scrape?choice=images HTTP/1.1" 200 -
+2025-03-28 00:22:09,752-INFO-192.168.129.210 - - [28/Mar/2025 00:22:09] "POST /scrape HTTP/1.1" 200 -
+2025-03-28 00:22:09,785-INFO-192.168.129.210 - - [28/Mar/2025 00:22:09] "GET /static/images/bike_1.jpg HTTP/1.1" 200 -
+2025-03-28 00:22:09,786-INFO-192.168.129.210 - - [28/Mar/2025 00:22:09] "GET /static/images/bike_4.jpg HTTP/1.1" 200 -
+2025-03-28 00:22:09,787-INFO-192.168.129.210 - - [28/Mar/2025 00:22:09] "GET /static/images/bike_3.jpg HTTP/1.1" 200 -
+2025-03-28 00:22:09,788-INFO-192.168.129.210 - - [28/Mar/2025 00:22:09] "GET /static/images/bike_2.jpg HTTP/1.1" 200 -
+2025-03-28 00:22:09,790-INFO-192.168.129.210 - - [28/Mar/2025 00:22:09] "GET /static/images/bike_5.jpg HTTP/1.1" 200 -
+2025-03-28 00:22:21,171-INFO-192.168.129.210 - - [28/Mar/2025 00:22:21] "GET /scrape HTTP/1.1" 200 -

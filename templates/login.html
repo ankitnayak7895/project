@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Image Scraper</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white;
+            font-family: 'Arial', sans-serif;
+        }
+        .container {
+            max-width: 400px;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        h2 {
+            font-weight: bold;
+        }
+        .form-control {
+            border-radius: 20px;
+            padding: 12px;
+            font-size: 16px;
+        }
+        .btn-custom {
+            border-radius: 25px;
+            width: 100%;
+            font-size: 16px;
+            margin-top: 10px;
+            padding: 12px;
+            transition: 0.3s;
+            font-weight: bold;
+        }
+        .btn-custom:hover {
+            opacity: 0.8;
+        }
+        .quote {
+            font-style: italic;
+            font-size: 1.1rem;
+            margin-top: 20px;
+            color: #f8f9fa;
+        }
+        .fade-in {
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container fade-in">
+        <h2 class="text-center">🔑 Login to Your Account</h2>
+
+        <!-- ✅ Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }} text-center">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <form method="POST">
+            <div class="mb-3">
+                <input type="text" name="username" class="form-control" placeholder="Enter Your Username" required>
+            </div>
+            <div class="mb-3">
+                <input type="password" name="password" class="form-control" placeholder="Enter Your Password" required>
+            </div>
+            <button type="submit" class="btn btn-primary btn-custom">🚀 Login</button>
+        </form>
+
+        <p class="text-center mt-3">Don't have an account? <a href="{{ url_for('signup') }}" class="text-light fw-bold">Signup here</a></p>
+
+        <!-- ✅ Motivational Quote -->
+        <p class="quote">"Every expert was once a beginner. Keep going!"</p>
+    </div>
+
+</body>
+</html>
