@@ -24,9 +24,7 @@ azure-storage-blob  # Azure Blob Storage
 # smtplib  # Built-in, no need to install
 # email  # Built-in, no need to install
 
-# Logging & Debugging
-logging  # Built-in, no need to install
-logging.handlers  # Built-in, no need to install
+
 
 #  Other Utilities
 uuid  # Built-in, for unique job IDs
