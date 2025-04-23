@@ -12,6 +12,6 @@ schedule- for scheduling we use this
 Flask-mail-for email setup and confirmation
 
 For UI and API we use:
-      Flask
+      Flask,
       Flask-Session
 >>>>>>> a4cc8b2 (This is my first commit)
