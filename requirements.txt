@@ -32,3 +32,5 @@ Flask-Mail
 
 # for free web hosted
 gunicorn 
+
+webdriver-manager
