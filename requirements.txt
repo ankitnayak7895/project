@@ -24,10 +24,11 @@ azure-storage-blob  # Azure Blob Storage
 # smtplib  # Built-in, no need to install
 # email  # Built-in, no need to install
 
-
-
 #  Other Utilities
 uuid  # Built-in, for unique job IDs
 
 # for email setup and confirmation
 Flask-Mail
+
+# for free web hosted
+gunicorn 
